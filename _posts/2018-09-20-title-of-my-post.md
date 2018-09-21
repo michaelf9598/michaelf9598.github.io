@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael Figueroa, Great Student, Launches Site"
+title: "Michael Figueroa, Official Blog Launch"
 date: 2018-09-20
 ---
 
