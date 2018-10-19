@@ -6,4 +6,4 @@ date: 2018-10-19
 
 Today
 
-![NorthKorea](/images/NorthKorea.png)
+![NorthKorea](/image/NorthKorea.png)
