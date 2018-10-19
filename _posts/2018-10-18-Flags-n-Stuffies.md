@@ -13,6 +13,7 @@ This week in AP Computer science, we finally completed our two week long flag pr
 
 
 ![NorthKorea](/image/NorthKorea.png)
+![Vietnameeeeeeeeeee](/image/Vietnameeeeeeeeeee.png)
 
 
 
