@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Michael Figueroa, New week with Flags"
-date: 2018-10-18
+date: 2018-10-19
 ---
 
-![Vietnameeeeeeeeeee](/images/Vietnameeeeeeeeeee.png)
+Today
 
 ![NorthKorea](/images/NorthKorea.png)
