@@ -10,7 +10,7 @@ This week in AP Computer science, we finally completed our two week long flag pr
 ![NorthKorea](/image/NorthKorea.png)
 ![Vietnameeeeeeeeeee](/image/Vietnameeeeeeeeeee.png)
 
-In all last week, I struggled for a good amount of time. I previously was unaware that you could define functions and use them in the ```place-image``` 
+In all last week, I struggled for a good amount of time. I previously was unaware that you could define functions and use them in the ```place-image```. After Mr.Allata helped, the entire assignment became so much more easy to understand. After learning it, I finished the project within the next day or two. After that we worked on includiong images in our reflections which I had troublke with in the beginning. i learned that I used the wrong directory name and that single mistake made the entire function not work. After learning that simple mistake, I used the new code and provided the images above. In all, I am enjoying using pyret and im understand the language every bit more every class.
 
 
 
