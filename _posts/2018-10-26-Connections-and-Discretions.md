@@ -1,7 +1,5 @@
---- 
-layout: post title:
-"Michael Figueroa, Connections n thingies"
-date: 2018-10-19 
 ---
-
-
+layout: post
+title: "Michael Figueroa, Connections"
+date: 2018-10-26
+---
