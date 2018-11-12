@@ -9,4 +9,4 @@ This week we learned a lot about what is required of us as students and a lot ab
 
 
 In all, this week was pretty important, though i feel I may start saying that about every week from now on.
-But in the beginnig of the week we started out with a pretty important word, beiong abstractions. I feel like abstractuions are a pretty important thing to do in computer science, making what ever youre creating do its main purpose with the least amount of actions or pieces. 
+But in the beginnig of the week we started out with a pretty important word, beiong abstractions. I feel like abstractuions are a pretty important thing to do in computer science, making what ever youre creating do its main purpose with the least amount of actions or pieces and making your work or ideas efficient.  
