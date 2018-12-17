@@ -3,14 +3,15 @@ layout: post
 title: "Michael Figueroa, Progress in my Project"
 date: 2018-12-14
 ---
-# bo
 
-In this 
 
+So far in my project to create the Malaysian flag ive faced several new challenges and accoplishments. To begin with, as you can see ive made substantial progress in the creation of it. My first challenge was to find exact porportions for the flag and how to portray that into code. I originally had problems because I never previously made a size accurate image using this program. After much research i  after finding the measurements my next cahllenge was to incorporate accuratley sized stripes comparative to the size. I decided that if I took the height of the flag and divide it by the number of stripes I would  
+
+
+# My Progress So Far
 
 
 ![Malaysia](/image/Malaysia.png)
-
 
 ```
 wsize = 600 
